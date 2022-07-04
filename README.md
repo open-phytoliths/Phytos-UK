@@ -44,11 +44,11 @@ We need UK Phytolith researchers and those in related fields that are interested
 
 ## Who are we?
 * Emma Karoune - I'm based at the Alan Turing Institute (ekaroune@turing.ac.uk) and Historic England.
-* Sarah Elliot - I'm based at Bournemouth University.
+* Sarah Elliot - I'm based at Bournemouth University (selliott@bournemouth.ac.uk).
 
 ## Get in touch
 
-Please feel free to get in touch with us by email at ekaroune@turing.ac.uk or 
+Please feel free to get in touch with us by email at ekaroune@turing.ac.uk or selliott@bournemouth.ac.uk
 
 ## Find out more
 
