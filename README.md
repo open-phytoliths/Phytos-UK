@@ -23,15 +23,15 @@ This collection is of interest to archaeobotanists, palaeoecologists and palaeon
 
 ## What do we want to do?
 Preparation for funding application and starting to build community for project:
-1. **Research different project management systems for data and workspace platforms** to identify the right option for this collection.
+**1. Research different project management systems for data and workspace platforms** to identify the right option for this collection.
   - Speak to researchers that have established these sorts of workspace platforms already in related disciplines.
-2. **Speak to UK phytolith researchers** to find out: 
+**2. Speak to UK phytolith researchers** to find out: 
   - What data and collections already exist?
   - What work in this area is already ongoing?
   - What are researchers needs in terms of a digital platform?
   - What are researchers needs in terms of more reference collection?
-3. **Get advice from research software engineer** group at Turing.
-4. **Further consider funding options** - scope any other funding sources or links to grants that have been applied for.
+**3. Get advice from research software engineer** group at Turing.
+**4. Further consider funding options** - scope any other funding sources or links to grants that have been applied for.
 
 
 ## What does this project need?
