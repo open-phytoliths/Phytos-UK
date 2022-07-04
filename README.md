@@ -23,6 +23,7 @@ This collection is of interest to archaeobotanists, palaeoecologists and palaeon
 
 ## What do we want to do?
 Preparation for funding application and starting to build community for project:
+
 **1. Research different project management systems for data and workspace platforms** to identify the right option for this collection.
   - Speak to researchers that have established these sorts of workspace platforms already in related disciplines.
 
@@ -50,7 +51,6 @@ We need UK Phytolith researchers and those in related fields that are interested
 Please feel free to get in touch with us by email at ekaroune@turing.ac.uk or 
 
 ## Find out more
-
 
 * **Project documents:**
   *  [Roadmap]().
