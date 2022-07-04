@@ -16,7 +16,7 @@ Thanks for visiting the _Phytos UK_ project! In this document you can find lots 
 ## What is this project about and why is it important?
 Phytoliths are plant microfossils used world-wide to address a variety of questions in a variety of fields like archaeology, palaeoecology and palaeontology. 
 
-We are currently scoping to gather information and ideas to begin working on phytolith reference collection for the UK flora. 
+We are currently scoping to gather information and ideas to begin working on a phytolith reference collection for the UK flora. 
 
 This collection is of interest to archaeobotanists, palaeoecologists and palaeontologists as well as general plant scientists. The collection is going to be a born digitial collection and work with an open and FAIR data focus to make the resources and outputs created as accessible and sustainable as possible.
 
